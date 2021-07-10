@@ -1,7 +1,7 @@
 ---
 
 - name: Plex
-  hosts: raspberrypi
+  hosts: plex
 
   tasks:
   - name: Install apt-transport-https
